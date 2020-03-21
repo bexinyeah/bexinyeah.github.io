@@ -22,10 +22,6 @@ h1,h2,h3,h4,h5,h6{
 	text-transform:none;
 }
 
-body{
-	text-transform:none;
-}
-
 button,select {
-  text-transform: none; // Remove the inheritance of text transform in Firefox
+  text-transform: none; 
 }
