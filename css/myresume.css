@@ -22,11 +22,11 @@ h1,h2,h3,h4,h5,h6{
 	text-transform:none;
 }
 
-nav.navbar navbar-expand-lg navbar-dark bg-primary fixed-top,#sideNav{
-	text-transform: none;
-}
-
 button,select {
   text-transform: none; 
 }
 
+h1,h2,h3,h4,h5,h6{
+	letter-spacing:2rem
+}
+	
