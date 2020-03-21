@@ -4,41 +4,38 @@ body{
 
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+	letter-spacing:1.3rem;
 }
 
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
+	font-size:3rem;
+	text-transform:none;
+	letter-spacing:0.5rem
 }
 
 body{
 	text-transform:none;
 }
 
-h1,h2,h3,h4,h5,h6{
-	text-transform:none;
-}
-
-.subheading{
-	text-transform:none;
-	font-size:1.5rem;
-	letter-spacing:-0.05rem
-}
-
 button,select {
   text-transform: none; 
 }
 
-h1,h2,h3,h4,h5,h6{
-	letter-spacing:1.3rem;
-}
-
 h1{
-	font-size:5rem;
+	font-size:6rem;
 }
 	
 h1 .text-primary {
     font-size: 3rem;
-    letter-spacing: -0.05rem;
-    line-height: 3rem;
+    letter-spacing: 0.5rem;
+    line-height: 2rem;
 }
+
+.subheading{
+	line-height:1.5rem
+}
+	
+	
 
