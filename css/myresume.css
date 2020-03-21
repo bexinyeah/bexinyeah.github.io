@@ -22,10 +22,18 @@ h1,h2,h3,h4,h5,h6{
 	text-transform:none;
 }
 
+body{
+	text-transform:none;
+}
+
 botton, select{
 	text-transform:none;
 }
 
-li.nav-item{
+.navbar-nav{
+	text-transform:none;
+}
+
+.nav-item{
 	text-transform:none;
 }
