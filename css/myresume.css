@@ -25,3 +25,11 @@ h1,h2,h3,h4,h5,h6{
 button,select {
   text-transform: none; 
 }
+
+ul.navbar-nav{
+	text-transform: none;
+}
+
+li.nav-item{
+	text-transform: none;
+}
