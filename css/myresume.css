@@ -10,7 +10,7 @@ h1,h2,h3,h4,h5,h6{
 
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
-	font-size:3rem;
+	font-size:1.5rem;
 	text-transform:none;
 	letter-spacing:0.5rem
 }
@@ -34,7 +34,7 @@ h1 .text-primary {
 }
 
 .subheading{
-	line-height:1.5rem
+	line-height:2rem
 }
 	
 	
