@@ -26,14 +26,6 @@ body{
 	text-transform:none;
 }
 
-botton, select{
-	text-transform:none;
-}
-
-.navbar-nav{
-	text-transform:none;
-}
-
-.nav-item{
-	text-transform:none;
+button, select {
+    text-transform:none;
 }
