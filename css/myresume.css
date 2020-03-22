@@ -15,7 +15,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 a {
-    color: #F0BFB3;
+    color: #A37F7C;
 }
 
 body{
@@ -34,7 +34,7 @@ h1 .text-primary {
     font-size: 3rem;
     letter-spacing: 0.1rem;
     line-height: 2rem;
-	color:#F0BFB3!important;
+	color:#A37F7C!important;
 }
 
 .subheading{
@@ -42,7 +42,7 @@ h1 .text-primary {
 }
 
 .bg-primary {
-    background-color: #F0BFB3!important;
+    background-color: #A37F7C!important;
 }
 	
 
