@@ -1,0 +1,57 @@
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+}
+
+.subheading{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size:1.3rem;
+	text-transform:none;
+	letter-spacing:-0.05rem
+}
+
+a {
+    color: #F26D6D;
+}
+
+body{
+	text-transform:none;
+}
+
+button,select {
+  text-transform: none; 
+}
+
+h1{
+	font-size:6rem;
+}
+	
+h1 .text-primary {
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    line-height: 2rem;
+	color:#F26D6D!important;
+}
+
+.subheading{
+	line-height:2rem
+}
+
+.bg-primary {
+    background-color: #F26D6D!important;
+}
+	
+.text-primary {
+    color: #F26D6D!important;
+}
+	
+p.lead mb-5{
+	color:#037F8C;
+}
+
+
+
