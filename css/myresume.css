@@ -14,6 +14,10 @@ h1,h2,h3,h4,h5,h6{
 	letter-spacing:-0.05rem
 }
 
+a {
+    color: #F0BFB3;
+}
+
 body{
 	text-transform:none;
 }
@@ -30,11 +34,17 @@ h1 .text-primary {
     font-size: 3rem;
     letter-spacing: 0.1rem;
     line-height: 2rem;
+	color:#F0BFB3!important;
 }
 
 .subheading{
 	line-height:2rem
 }
+
+.bg-primary {
+    background-color: #F0BFB3!important;
+}
 	
+
 	
 
