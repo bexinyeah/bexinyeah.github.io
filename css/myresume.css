@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	font-family: 'Noto Sans TC', sans-serif;
 }
@@ -49,4 +50,7 @@ h1 .text-primary {
     color: #F26D6D!important;
 }
 	
+p.lead mb-5{
+	color:#037F8C;
+}
 
