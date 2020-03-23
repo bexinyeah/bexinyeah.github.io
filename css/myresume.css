@@ -5,6 +5,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
+	color:#240809;
 }
 
 .subheading{
@@ -48,10 +49,7 @@ h1 .text-primary {
 .text-primary {
     color: #F26D6D!important;
 }
-	
-p.lead mb-5{
-	color:#037F8C;
+
+p.mb-5{
+	color:#03738C;
 }
-
-
-
