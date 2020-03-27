@@ -43,7 +43,8 @@ h1 .text-primary {
 }
 
 .bg-primary {
-    background-color: #F26D6D!important;
+	background-color: #f2bab8!important;
+    background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
 }
 	
 .text-primary {
