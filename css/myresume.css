@@ -43,8 +43,8 @@ h1 .text-primary {
 }
 
 .bg-primary {
-background-color: #ffc4c2;
-
+background-color: #ffc4c2!important;
+background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
 }
 	
 .text-primary {
