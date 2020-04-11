@@ -54,3 +54,7 @@ background-image: url("https://www.transparenttextures.com/patterns/crissxcross.
 p.mb-5{
 	color:#03738C;
 }
+
+li.nav-item{
+	text-transform: none;
+}
