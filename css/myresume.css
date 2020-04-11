@@ -55,3 +55,6 @@ p.mb-5{
 	color:#03738C;
 }
 
+#sideNav .navbar-nav .nav-item .nav-link {
+    text-transform: none;
+}
