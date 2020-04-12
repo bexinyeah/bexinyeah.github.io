@@ -60,11 +60,11 @@ p.mb-5{
 }
 
 a:active, a:focus, a:hover {
-	color: #4028EB;
+	color: #03738C;
 }
 
 .social-icons a:hover{
-	color:#03738C
+	color:#03738C;
 }
 
 .dev-icons .list-inline-item i:hover{
