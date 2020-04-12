@@ -59,6 +59,10 @@ p.mb-5{
     text-transform: none; 
 }
 
+a:active, a:focus, a:hover {
+	color: #4028EB;
+}
+
 .social-icons a:hover{
 	color:#03738C
 }
