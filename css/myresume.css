@@ -58,15 +58,3 @@ p.mb-5{
 #sideNav .navbar-nav .nav-item .nav-link {
     text-transform: none; 
 }
-
-a:active, a:focus, a:hover {
-	color: #03738C;
-}
-
-.social-icons a:hover{
-	color:#03738C;
-}
-
-.dev-icons .list-inline-item i:hover{
-    color: #03738C;
-}
