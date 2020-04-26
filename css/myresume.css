@@ -60,8 +60,9 @@ p.mb-5{
     text-transform: none; 
 }
 
-th{
+tr:first-child{
 	background-color:#f5f5f5;
+	text-align:center;
 }
 
 tr:hover{
