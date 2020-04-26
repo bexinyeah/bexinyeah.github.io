@@ -59,3 +59,7 @@ p.mb-5{
 #sideNav .navbar-nav .nav-item .nav-link {
     text-transform: none; 
 }
+
+.navbar-dark .navbar-nav .nav-link.active{
+	color:#fff
+}
