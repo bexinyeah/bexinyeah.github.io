@@ -60,8 +60,7 @@ p.mb-5{
     text-transform: none; 
 }
 
-tr:first-child{
-	background-color:#f5f5f5;
+tr{
 	text-align:center;
 }
 
