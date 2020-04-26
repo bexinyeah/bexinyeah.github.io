@@ -60,6 +60,6 @@ p.mb-5{
     text-transform: none; 
 }
 
-.navbar-dark .navbar-nav .nav-link.active{
-	color:#fff
+.table{
+	width:80%;
 }
