@@ -70,6 +70,7 @@ tr:hover{
 	text-align:left;
 }
 
-#sideNav .navbar-collapse .navbar-nav {
-	webkit-box-direction: normal;
+sideNav .navbar-collapse .navbar-nav {
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
 }
