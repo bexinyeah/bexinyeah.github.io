@@ -71,7 +71,7 @@ tr:hover{
 }
 
 
-@media (min-width: 992px)
+
 #sideNav {
     text-align: center;
     position: fixed;
@@ -85,7 +85,7 @@ tr:hover{
     height: 100vh;
 }
 
-@media (min-width: 992px)
+
 #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -100,7 +100,7 @@ tr:hover{
     margin-bottom: auto;
 }
 
-@media (min-width: 992px)
+
 #sideNav .navbar-collapse .navbar-nav {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
