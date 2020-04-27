@@ -85,20 +85,27 @@ tr:hover{
     height: 100vh;
 }
 
-[type=button], [type=reset], [type=submit], button {
-    -webkit-appearance: button;
-}
-
 @media (min-width: 992px)
 #sideNav .navbar-collapse {
-	-webkit-box-align: start;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    width: 100%;
+    margin-bottom: auto;
 }
 
 @media (min-width: 992px)
 #sideNav .navbar-collapse .navbar-nav {
-	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
-	flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
     width: 100%;
 }
 
