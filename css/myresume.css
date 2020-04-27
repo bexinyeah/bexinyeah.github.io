@@ -70,7 +70,7 @@ tr:hover{
 	text-align:left;
 }
 
-
+@media (min-width: 992px)
 #sideNav .navbar-collapse .navbar-nav {
 	-webkit-box-orient: vertical;
 	-webkit-box-direction: normal;
