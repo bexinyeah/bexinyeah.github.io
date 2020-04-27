@@ -71,9 +71,27 @@ tr:hover{
 }
 
 @media (min-width: 992px)
+@media (min-width: 992px)
 #sideNav {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
 	-webkit-box-orient: vertical;
-	-webkit-box-direction: normal;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    width: 17rem;
+    height: 100vh;
+}
+
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+}
+
+@media (min-width: 992px)
+#sideNav .navbar-collapse {
+	-webkit-box-align: start;
 }
 
 @media (min-width: 992px)
