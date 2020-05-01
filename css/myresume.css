@@ -100,5 +100,8 @@ tr:hover{
 }
 
 .text-center {
+	width:300px;
+	height:200px;
+	border:2px solid #C4C4C4;
     text-align: center!important;
 }
