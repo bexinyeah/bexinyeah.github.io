@@ -70,5 +70,8 @@ tr:hover{
 	text-align:left;
 }
 
-
+.card_show{
+	width:600px;
+	height:500px;
+}
 
