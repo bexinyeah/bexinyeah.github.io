@@ -70,9 +70,13 @@ tr:hover{
 	text-align:left;
 }
 
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
+
 .card_body{
-	width:1000px;
-	height:500px;
+	width:1200px;
+	height:700px;
 	padding:1.25rem;
 	border:5px dashed #C4C4C4;
 	margin:5px 
