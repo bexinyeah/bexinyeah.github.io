@@ -113,7 +113,6 @@ tr:hover{
     margin-bottom: 0!important;
 }
 
-element.style {
-	padding:1.25rem;
-	margin-top:3px;
+p#words{
+	margin:16px 16px 16px 16px;
 }
