@@ -90,8 +90,12 @@ tr:hover{
 }
 
 .card-1{
-	width:400px;
-	height:300px;
+	width:300px;
+	height:400px;
 	padding:1.25rem;
 	margin:1px 
+}
+
+.photography{
+	width:100%;
 }
