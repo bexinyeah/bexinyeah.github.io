@@ -82,3 +82,16 @@ tr:hover{
 	margin:5px 
 }
 
+.col-md-4{
+    width:300px;
+	height:500px;
+	padding:1.25rem;
+	margin:1px 
+}
+
+.photography{
+	width:300px;
+	height:400px;
+	padding:1.25rem;
+	margin:1px 
+}
