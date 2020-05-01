@@ -112,3 +112,13 @@ tr:hover{
 .mb-0, .my-0 {
     margin-bottom: 0!important;
 }
+
+.card_head{
+	padding:1.25rem;
+	margin-top:3px;
+}
+
+.card_text{
+	padding:1.25rem;
+	margin-top:3px;
+}
