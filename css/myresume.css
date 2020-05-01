@@ -70,8 +70,11 @@ tr:hover{
 	text-align:left;
 }
 
-.card_show{
+.card_body{
 	width:800px;
 	height:600px;
+	padding:1.25rem;
+	border:1px dashed #C4C4C4;
+	margin:5px auto;
 }
 
