@@ -104,11 +104,15 @@ tr:hover{
     text-align: center!important;
 }
 
-.cardtext{
+.card_text{
 	width:270px;
 	height:120px;
     text-align: center!important;
 	padding:2px;
+}
+
+.card_text_1{
+	padding:2PX;
 }
 
 .mb-0, .my-0 {
