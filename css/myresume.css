@@ -74,7 +74,7 @@ tr:hover{
     margin-bottom: 1rem!important;
 }
 
-.card_body{
+#graph_set{
 	width:1150px;
 	height:900px;
 	padding:1.25rem;
@@ -82,17 +82,17 @@ tr:hover{
 	margin:3px 
 }
 
-.row{
+.card_content{
     width:1050px;
-	height:650px;
-	padding:1.25rem;
+	height:850px;
+	padding:1px;
 	margin:1px 
 }
 
 .col-md-4{
-	width:300px;
-	height:400px;
-	padding:1.25rem;
+	width:270px;
+	height:350px;
+	padding:1px;
 
 .card-1.border-0{
 	width:300px;
