@@ -96,8 +96,9 @@ tr:hover{
 }
 
 .col-md-4{
-    width: 100%;
-    padding-right: 15px;
+    width:260px;
+	height:340px;
+    padding-right:15px;
     padding-left: 15px;
 }
 
