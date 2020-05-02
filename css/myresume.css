@@ -82,17 +82,11 @@ tr:hover{
 	margin:2px 
 }
 
-.card_content{
+.card_body{
     width:1050px;
 	height:850px;
 	padding:1px;
 	margin:1px 
-}
-
-.card{
-	width:1050px;
-	height:840px;
-	padding:1px;
 }
 
 .card-1.border-0{
