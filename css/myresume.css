@@ -91,7 +91,7 @@ tr:hover{
 .card-1{
 	width:260px;
 	height:250px;
-	border:1px dashed #CCCDCF;
+	border:2px dashed #CCCDCF;
 	border-radius:0 0 10% 10%;
 	margin:7px;
 }
