@@ -119,3 +119,7 @@ tr:hover{
 .mb-0, .my-0 {
     margin-bottom: 0!important;
 }
+
+section.resume-section {
+    padding-top: 6rem!important;
+}
