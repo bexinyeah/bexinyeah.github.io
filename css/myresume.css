@@ -119,3 +119,8 @@ tr:hover{
 .mb-0, .my-0 {
     margin-bottom: 0!important;
 }
+
+.social-icon:hover{
+	background-color:#F26D6D;
+}
+	
