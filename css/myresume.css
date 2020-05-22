@@ -5,7 +5,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
-	color:#1C2427;
+	color:#310F11;
 }
 
 .subheading{
@@ -16,7 +16,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 a {
-    color: #F26D6D;
+    color: #868e96;
 }
 
 body{
@@ -44,16 +44,20 @@ h1 .text-primary {
 }
 
 .bg-primary {
-background-color: #f27874!important;
+background-color: #ED8C93!important;
 background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
 }
 	
+.nav-link{
+	color:#FCF1F2;
+}
+
 .text-primary {
-    color: #F26D6D!important;
+    color: #D53F49!important;
 }
 
 p.mb-5{
-	color:#03738C;
+	color:#D53F49;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -129,5 +133,5 @@ ul{
 }
 
 .container-fluid{
-	background-color:#F2E2CE;
+	background-color:#FCF1F2;
 }
