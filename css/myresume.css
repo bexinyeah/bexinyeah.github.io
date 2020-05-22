@@ -130,7 +130,11 @@ tr:hover{
     margin-bottom: 0!important;
 }
 
-ul.list-inline{
+i.fab{
+	margin-right:0.7rem;
+}
+
+i.fas{
 	margin-right:0.7rem;
 }
 
