@@ -130,7 +130,7 @@ tr:hover{
     margin-bottom: 0!important;
 }
 
-.list-inline-item{
+.list-inline-item:not(:last-child){
 	margin-right:0.7rem;
 }
 
