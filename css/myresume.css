@@ -127,4 +127,7 @@ tr:hover{
 ul{
 	margin-bottom:1.5rem 
 }
-	
+
+.container-fluid{
+	background-color:#F2E2CE;
+}
