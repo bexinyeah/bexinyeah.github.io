@@ -149,6 +149,9 @@ ul{
 .social-icons a{
 	background-color:#ed8c93;
 	color:#fcf1f2 !important;
+	border-radius: 25%;
+	font-size: 2rem;
+	margin-right: 2rem;
 }
 
 
