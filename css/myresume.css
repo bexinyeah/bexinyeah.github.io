@@ -160,6 +160,13 @@ hr{
 	border-top: 3px dashed rgba(0,0,0,.1);
 }
 
+.table thead th {
+	border: 2px solid #310f11;
+}
+
+.table thead td {
+	border: 2px solid #310f11;
+}
 
 
 
