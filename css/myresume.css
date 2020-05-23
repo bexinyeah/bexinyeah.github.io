@@ -161,12 +161,11 @@ hr{
 }
 
 .table thead th {
-	border: 2px dashed #310f11;
-	border-radius: 25%;
+	border: 2px solid #310f11;
 }
 
 .table tbody td {
-	border: 2px dashed #310f11;
+	border: 2px solid #310f11;
 }
 
 
