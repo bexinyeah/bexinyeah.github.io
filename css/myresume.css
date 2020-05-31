@@ -85,22 +85,16 @@ tr:hover{
 }
 
 #graph_set{
-	width:900px;
-	height:950px;
 	padding:1px;
-	margin:2px 
+	margin:0 auto;
 }
 
 .row{
-    width:900px;
-	height:950px;
 	padding:1px;
-	margin:1px 
+	margin:0 auto;
 }
 
 .card-1{
-	width:260px;
-	height:250px;
 	border:3px dashed #310f11;
 	margin:15px;
 	padding:5px;
