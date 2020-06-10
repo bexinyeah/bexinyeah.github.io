@@ -1,0 +1,164 @@
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+	color:#310F11;
+	letter-spacing:1px;
+}
+
+.subheading{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size:23px;
+	text-transform:none;
+	letter-spacing:-0.05rem
+}
+
+p{
+	font-size:19px;
+	letter-spacing:1px;
+}
+a {
+    color: #310F11;
+}
+
+body{
+	text-transform:none;
+
+}
+
+button,select {
+  text-transform: none; 
+}
+
+h1{
+	font-size:5.5rem;
+}
+	
+h1 .text-primary {
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+    line-height: 2rem;
+	color:#F26D6D!important;
+}
+
+.subheading{
+	line-height:2rem
+}
+
+.bg-primary {
+background-color: #ED8C93!important;
+background-image: url("https://www.transparenttextures.com/patterns/crissxcross.png");
+}
+	
+.nav-link{
+	color:#FCF1F2;
+}
+
+.text-primary {
+    color: #D53F49!important;
+}
+
+p.lead{
+	color:#D53F49;
+	font-size: 21px;
+}
+
+#sideNav .navbar-nav .nav-item .nav-link {
+    text-transform: none; 
+}
+
+th{
+	text-align:center;
+	background-color:#ed8c93;
+}
+
+tr:hover{
+	background-color:#ed8c93;
+	text-align:left;
+}
+
+.mb-5, .my-5 {
+    margin-bottom: 1rem!important;
+}
+
+#graph_set{
+	padding:1px;
+	margin:0 auto;
+}
+
+.row{
+	padding:1px;
+	margin:0 auto;
+}
+
+.card-1{
+	border:3px dashed #310f11;
+	margin:15px;
+	padding:5px;
+	border-radius: 15px;
+}
+
+.photography{
+	width:100%;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.card_text{
+    text-align: center!important;
+	padding:6px;
+}
+
+.card_text_1{
+	padding:6PX;
+	text-align:center;
+}
+
+.mb-0, .my-0 {
+    margin-bottom: 0!important;
+}
+
+li.list-inline-item{
+	margin-right:0.7rem;
+}
+
+ul{
+	margin-bottom:1.5rem 
+}
+
+.container-fluid{
+	background-color:#FCF1F2;
+}
+
+.fa-ul{
+	font-size:19px;
+}
+
+.social-icons a{
+	background-color:#ed8c93;
+	color:#fcf1f2 !important;
+	border-radius: 25%;
+	font-size: 2rem;
+	margin: 2rem 2rem 0 0;
+	
+}
+
+hr{
+	border-top: 3px dashed rgba(0,0,0,.1);
+}
+
+.table thead th {
+	border: 2px solid #310f11;
+}
+
+.table tbody td {
+	border: 2px solid #310f11;
+}
+
+
+
